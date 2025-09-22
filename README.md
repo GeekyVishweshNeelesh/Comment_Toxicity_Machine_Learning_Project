@@ -1,10 +1,10 @@
-#💬 Toxic Comment Classification & Moderation App 🚫🤖
+# 💬 Toxic Comment Classification & Moderation App 🚫🤖
 
 A machine learning–powered tool to automatically detect different types of toxic content in user comments.
 The app classifies comments into multiple toxicity categories to help online platforms moderate harmful language effectively.
 
 
-#🧩 Overview
+# 🧩 Overview
 
 -✨ Goal: Detect and classify user comments into:
 
@@ -24,7 +24,7 @@ The app classifies comments into multiple toxicity categories to help online pla
 🌍 Use Cases: Social media 🐦, forums 💬, customer reviews 🛒 – anywhere harmful content needs monitoring.
 
 
-#🔧 Tech Stack
+# 🔧 Tech Stack
 
 -🐍 Python 3.x
 
