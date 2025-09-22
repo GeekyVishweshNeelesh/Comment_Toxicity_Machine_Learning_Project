@@ -58,10 +58,14 @@ Column Name	Description
 
 
 
-#🧠 Models Tried
+# 🧠 Models Tried
+
 -🤖 Model	🔍 Characteristics
+
 -📈 Logistic Regression	Baseline, fast, interpretable
+
 -🌲 Random Forest	Handles non-linearities, slower
+
 -🏆 XGBoost	Best balance of precision & recall
 
 
