@@ -84,10 +84,21 @@ Column Name	Description
 
 # 🛠️ Example Comments
 Comment	Prediction
-“You are absolutely worthless and everyone hates you.”	Toxic, Insult
-“I will find you and make you pay …”	Threat, Toxic
-“I really appreciated your post; great depth and insight!”	Non-toxic
 
+- “You are absolutely worthless and everyone hates you.”	Toxic, Insult
+
+- “I will find you and make you pay …”	Threat, Toxic
+
+- “I really appreciated your post; great depth and insight!”	Non-toxic
+
+
+# 🙌 Credits
+
+- 📊 Dataset: Jigsaw Toxic Comment Classification (Kaggle)
+
+- 🎨 Streamlit for UI
+
+- 🧑‍💻 Built with ❤️ by GeekyVishweshNeelesh
 
 
 
