@@ -47,13 +47,21 @@ The app classifies comments into multiple toxicity categories to help online pla
 
 Column Name	Description
 -🆔 id	Unique comment ID
+
 -💬 comment_text	Raw comment text
+
 -🧨 toxic	1 = toxic
+
 -⚠️ severe_toxic	1 = severe toxic
+
 -🤬 obscene	1 = obscene
+
 -🔪 threat	1 = threat
+
 😡 insult	1 = insult
+
 -🚷 identity_hate	1 = identity-based hate
+
 ⚙️ Preprocessing: cleaning text, stopword removal, lowercasing, TF-IDF transformation.
 
 
