@@ -21,6 +21,7 @@ The app classifies comments into multiple toxicity categories to help online pla
 -🚷 Identity Hate
 
 💻 User Interface: Built with Streamlit where users can type a comment and instantly see predictions.
+
 🌍 Use Cases: Social media 🐦, forums 💬, customer reviews 🛒 – anywhere harmful content needs monitoring.
 
 
@@ -46,6 +47,7 @@ The app classifies comments into multiple toxicity categories to help online pla
 #📊 Columns in train.csv:
 
 Column Name	Description
+
 -🆔 id	Unique comment ID
 
 -💬 comment_text	Raw comment text
