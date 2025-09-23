@@ -42,9 +42,9 @@ The app classifies comments into multiple toxicity categories to help online pla
 
 
 
-#📂 Dataset & Features
+# 📂 Dataset & Features
 
-#📊 Columns in train.csv:
+## 📊 Columns in train.csv:
 
 Column Name	Description
 
