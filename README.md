@@ -72,11 +72,11 @@ Column Name	Description
 
 -🤖 Model	🔍 Characteristics
 
--📈 Logistic Regression	Baseline, fast, interpretable
+-📈 Logistic Regression:	Baseline, fast, interpretable
 
--🌲 Random Forest	Handles non-linearities, slower
+-🌲 Random Forest:	Handles non-linearities, slower
 
--🏆 XGBoost	Best balance of precision & recall
+-🏆 XGBoost:	Best balance of precision & recall
 
 
 
@@ -87,8 +87,6 @@ Column Name	Description
 🔄 Hyperparameter tuning improved rare-class detection (threat, identity_hate)
 
 🎯 Final choice: XGBoost + TF-IDF
-
-
 
 
 
@@ -103,10 +101,6 @@ Comment	Prediction
 
 
 # 🙌 Credits
-
-- 📊 Dataset: Jigsaw Toxic Comment Classification (Kaggle)
-
-- 🎨 Streamlit for UI
 
 - 🧑‍💻 Built with ❤️ by GeekyVishweshNeelesh
 
